@@ -1,0 +1,26 @@
+package com.company.lockers;
+
+public class LockMe {
+
+	public static void displayMenu()
+	{
+		System.out.println("****************************************************************");
+		System.out.println("\tWelcome To Compant Locker - Lockme.com");
+		System.out.println("\tDeveloper Name : ANSUL RATHI");
+		System.out.println("****************************************************************");
+		System.out.println("\t1. Diplay all the Fields");
+		System.out.println("\t2. Add file to existing Directory");
+		System.out.println("\t3. Delete a file");
+		System.out.println("\t4. Search a file");
+		System.out.println("\t5. Exit");
+		System.out.println("****************************************************************");
+	}
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+	
+
+
+}
